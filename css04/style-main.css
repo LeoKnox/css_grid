@@ -255,6 +255,7 @@ Card grid:
 			grid-gap: 1em;
 		}
 		.card {
+			display: flex;
 			margin-bottom: 0;
 		}
 	}
